@@ -1,0 +1,17 @@
+.display {
+  background-color:#000;
+  color:#fff;
+  text-align: right;
+  margin-bottom: 0;
+  width:326px;
+}
+
+.btn {
+  width:80px;
+  margin-right:2px;
+}
+
+.btnB {
+  width:162px;
+  margin-right: 2px;
+}
